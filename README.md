@@ -34,6 +34,15 @@ Retail AI Assistant is an AI-powered analytics application that converts natural
 
 ---
 
+## Project Workflow
+
+This project follows an end-to-end retail analytics workflow:
+
+1. Data cleaning and preprocessing using Python (Pandas).
+2. Business analysis using PostgreSQL and SQL.
+3. Interactive dashboard development in Power BI.
+4. AI-powered Retail Assistant using FastAPI, Streamlit, and Groq LLM for natural language querying.
+
 ## Project Structure
 
 ```
